@@ -1,0 +1,17 @@
+name: PunishmentSystem
+version: 1.0
+author: DerStandard
+
+main: eu.thelair.punishmentsystem.PunishmentSystem
+
+commands:
+  bantemplate:
+  dircetbantemplate:
+  mutetemplate:
+  directmutetemplate:
+  unbantemplate:
+  unmutetemplate:
+  banlog:
+  baninfo:
+  kick:
+  addadendumban:
